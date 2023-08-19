@@ -1,3 +1,15 @@
+# Project Description
+
+Frontend and backend developers, designers, project managers, and QAs! Here is an app to get you started on your new project.
+
+By allowing the user select projects from their feed based on the role they are invested in, ProjectCollaboratorApp provides an easy-to-use and multipurpose platform for people who want to create or participate in a project. On ProjectCollaboratorApp, you can view your tasks and projects, search for other users, create posts and find teammates. With the goals of providing effortless project management and discovery of tailored projects, we hope to empower your visions.
+
+In short, our app empowers you to effortlessly engage in meaningful projects and bring your ideas to life. Connect and conquer!
+
+# Disclaimer
+
+This project has been created for UBC's CPSC304: Introduction to Relational Databases Class. The contributors of this are Irmak Bayir, Kutluay Cakadur and Selin Uz. The below project needs to have XAMPP installed and the PHP of XAMPP set up with the correct dependencies in order to access `localhost:8080/phpmyadmin` and `localhost:8080/feed`. Please keep in mind the policies regarding academic dishonesty if you decide to use code from this project!
+
 # Project Setup
 
 This guide will help you set up the necessary tools for your project. Follow the steps below to download and configure XAMPP, Composer, and other essential components.
