@@ -6,9 +6,9 @@ By allowing the user select projects from their feed based on the role they are 
 
 In short, our app empowers you to effortlessly engage in meaningful projects and bring your ideas to life. Connect and conquer!
 
-# Disclaimer
+## Disclaimer
 
-This project has been created for UBC's CPSC304: Introduction to Relational Databases Class. The contributors of this are Irmak Bayir, Kutluay Cakadur and Selin Uz. The below project needs to have XAMPP installed and the PHP of XAMPP set up with the correct dependencies in order to access `localhost:8080/phpmyadmin` and `localhost:8080/feed`. Please keep in mind the policies regarding academic dishonesty if you decide to use code from this project!
+This project has been created for UBC's CPSC304: Introduction to Relational Databases Class. The contributors of this project are Irmak Bayir, Kutluay Cakadur and Selin Uz. The below project needs to have XAMPP installed and the PHP of XAMPP set up with the correct dependencies in order to access `localhost:8080/phpmyadmin` and `localhost:8080/feed` (check out the setup seciton for further information). Please keep in mind the policies regarding academic dishonesty if you decide to use code from this project!
 
 # Project Setup
 
